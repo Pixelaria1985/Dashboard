@@ -1,0 +1,18 @@
+Estructura del proyecto:
+
+/dashboard/
+│
+├── index.php
+├── chart-bar.php
+├── header.php
+├── sidebar.php
+├── footer.php
+├── /assets/
+│   ├── /css/
+│   │   └── styles.css
+│   └── /js/
+│       └── chart-bar.js
+│       └── chart-combined.js
+│       └── chart-pie-dos.js
+│       └── chart-pie.js
+
